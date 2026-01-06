@@ -23,5 +23,9 @@ The project features a tailored UI:
 * **Desktop**: A cinematic Hero Image visualizing the council in session.
 * **Mobile**: An accessible, detailed card-list for each council member.
 
----
+This project is not open source.
+
+No license is granted for reuse, modification, or redistribution
+of the code, content, or brand assets unless explicitly stated.
+
 © 2026 InnerDuel Project. All rights reserved.

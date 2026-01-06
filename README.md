@@ -23,4 +23,4 @@ The project features a tailored UI:
 * **Desktop**: A cinematic Hero Image visualizing the council in session.
 * **Mobile**: An accessible, detailed card-list for each council member.
 
-© 2026 InnerDuel Project. All rights reserved.
+© 2026 Grey Chan's Lab. All Rights Reserved. Unauthorized reproduction or misappropriation is strictly prohibited.

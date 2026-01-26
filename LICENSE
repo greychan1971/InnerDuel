@@ -1,17 +1,29 @@
-Proprietary License and Copyright Notice
-
+InnerDuel Shared Source & Intellectual Property Notice
 Copyright (c) 2026 Grey Chan's Lab. All Rights Reserved.
 
-Redistribution and use in source and binary forms, with or without modification, are NOT permitted without the prior written consent of Grey Chan's Lab.
+1. The Spirit of the Project
+InnerDuel is a labor of love born from an obsession with Neuro-psychology and the IFS framework. While we are currently a closed-source SaaS to ensure the project's sustainable growth, we believe in logic transparency. We share our frameworks and documentation here to invite dialogue, not just to set boundaries.
 
-Ownership: All intellectual property rights, including but not limited to the "Inner Council" framework, neural-mapping logic, character assets, and source code, remain the exclusive property of Grey Chan's Lab.
+2. Intellectual Property & Ownership
+All intellectual property rights—including the "Inner Council" decision-making framework, neural-mapping algorithms, cyberpunk character assets, and proprietary prompts—remain the exclusive property of Grey Chan's Lab LLC.
 
-Restrictions:
+3. Permitted & Restricted Use
+For Personal & Research Use: We encourage you to study our logic and discuss the framework. If you find our psychological mapping useful, feel free to cite InnerDuel in your non-commercial research.
 
-You may not decompile, reverse engineer, or attempt to derive the source code of this project.
+Commercial Restrictions: Redistribution, sub-licensing, or the creation of derivative SaaS products based on the InnerDuel framework/source code is strictly prohibited without prior written consent.
 
-You may not create derivative works based on the InnerDuel framework for commercial purposes.
+No Reverse Engineering: You may not decompile or attempt to derive the source code for the purpose of cloning the InnerDuel service.
 
-No Warranty: This project is provided "as is" without any warranty of any kind, express or implied.
+4. "Open Logic" Collaboration
+We don't want this to be a one-way street. We warmly invite you to:
 
-Disclaimer: InnerDuel is a decision-support tool and does not provide medical or mental health advice.
+Submit Issues for logic optimization or feature requests.
+
+Collaborate on the psychological methodology behind the Council.
+
+Reach out for official API access or partnership inquiries if you wish to build atop our ecosystem.
+
+5. Disclaimers
+As-Is: This project is provided "as is" without warranty of any kind.
+
+Non-Medical: InnerDuel is a cognitive support tool. It is not a substitute for professional medical or mental health advice.

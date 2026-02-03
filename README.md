@@ -1,4 +1,4 @@
-# InnerDuel.ai : Map your brain. Duel your REAL LIFE.
+# InnerDuel.ai : Cyberpunk your brain, win your inner duel.
 
 ## 💡 Project Overview : My "Mind Lab" Manifesto
 

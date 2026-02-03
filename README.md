@@ -1,4 +1,4 @@
-# InnerDuel: The AI-Driven Inner Council Framework
+# InnerDuel.ai: MAP YOUR BRAIN. DUEL YOUR REAL LIFE.
 
 ![InnerDuel Hero](https://raw.githubusercontent.com/greychan1971/InnerDuel/refs/heads/main/assets/human-operating-system-logo.jpg)
 

@@ -23,11 +23,11 @@ Each persona represents a specific neural or psychological function:
 
 L.D.S.T.B.
 
-* **Alpha (Logic)**: The Rational Planner. Focuses on data-driven strategy and long-term consequences (Prefrontal Cortex).
-* **Dominic (Desire)**: The Motivation Seeker. Driven by novelty and potential gains (Nucleus Accumbens).
-* **Lilith (Safety)**: The Impulse Warner. Detects risks and prioritizes immediate safety (Amygdala).
-* **Augustus (Tradition)**: The Keeper of Experience. Analyzes past patterns to inform present choices (Hippocampus).
-* **Serena (Bond)**: The Emotional Moderator. Ensures cognitive harmony and prevents burnout (Serotonin System).
+* **Logic (Alpha)**: The Rational Planner. Focuses on data-driven strategy and long-term consequences (Prefrontal Cortex).
+* **Desire (Dominic)**: The Motivation Seeker. Driven by novelty and potential gains (Nucleus Accumbens).
+* **Safety (Lilith)**: The Impulse Warner. Detects risks and prioritizes immediate safety (Amygdala).
+* **Tradition (Augustus)**: The Keeper of Experience. Analyzes past patterns to inform present choices (Hippocampus).
+* **Bond (Serena)**: The Emotional Moderator. Ensures cognitive harmony and prevents burnout (Serotonin System).
 
 ## 🎨 Visualizing Your Brain's Blueprint
 This repository is more than just a folder of images; it’s the "Visual Genome" of the IDT system.
@@ -37,8 +37,6 @@ To help you instantly grasp the 12 complex neural personality types, I’ve craf
 ![InnerDuel Hero](https://raw.githubusercontent.com/greychan1971/InnerDuel/refs/heads/main/assets/IDT-L-04.jpg)
 
 ## 🚀 Responsive Experience
-The project features a tailored UI:
-* **Desktop**: A cinematic Hero Image visualizing the council in session.
-* **Mobile**: An accessible, detailed card-list for each council member.
+* **This project will present a wonderful, interesting and rich stream of life.
 
 © 2026 Grey Chan's Lab. 

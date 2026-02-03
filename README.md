@@ -21,12 +21,13 @@ I’m here to help you move from "survival mode" to "flow state." It’s about u
 ## 🏛 The Inner Council Members
 Each persona represents a specific neural or psychological function:
 
+L.D.S.T.B.
+
 * **Alpha (Logic)**: The Rational Planner. Focuses on data-driven strategy and long-term consequences (Prefrontal Cortex).
-* **Lilith (Warning)**: The Impulse Warner. Detects risks and prioritizes immediate safety (Amygdala).
-* **Dominic (Reward)**: The Motivation Seeker. Driven by novelty and potential gains (Nucleus Accumbens).
-* **Augustus (Memory)**: The Keeper of Experience. Analyzes past patterns to inform present choices (Hippocampus).
-* **Serena (Balance)**: The Emotional Moderator. Ensures cognitive harmony and prevents burnout (Serotonin System).
-* **The Self (The Decider)**: The conscious core that integrates all perspectives into a final verdict.
+* **Dominic (Desire)**: The Motivation Seeker. Driven by novelty and potential gains (Nucleus Accumbens).
+* **Lilith (Safety)**: The Impulse Warner. Detects risks and prioritizes immediate safety (Amygdala).
+* **Augustus (Tradition)**: The Keeper of Experience. Analyzes past patterns to inform present choices (Hippocampus).
+* **Serena (Bond)**: The Emotional Moderator. Ensures cognitive harmony and prevents burnout (Serotonin System).
 
 ## 🎨 Visual Methodology
 This repository hosts original high-fidelity infographics and character assets for the InnerDuel ecosystem. These assets bridge the gap between neurobiological concepts and intuitive user interface design.

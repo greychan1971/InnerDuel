@@ -1,8 +1,8 @@
 # InnerDuel.ai : Map your brain. Duel your REAL LIFE.
 
-## 💡 Project Overview: My "Mind Lab" Manifesto
+## 💡 Project Overview : My "Mind Lab" Manifesto
 
-Hey, I'm Grey. Welcome to InnerDuel.
+Hey, I'm Grey. Welcome to InnerDuel.ai.
 
 Ever feel like your brain is a chaotic boardroom where everyone is screaming at once, and somehow, the worst idea always wins?
 

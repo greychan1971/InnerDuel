@@ -1,4 +1,4 @@
-# InnerDuel.ai: MAP YOUR BRAIN. DUEL YOUR REAL LIFE.
+# InnerDuel.ai  Map your brain. Duel your REAL LIFE.
 
 ![InnerDuel Hero](https://raw.githubusercontent.com/greychan1971/InnerDuel/refs/heads/main/assets/human-operating-system-logo.jpg)
 

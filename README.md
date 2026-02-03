@@ -1,6 +1,6 @@
 # InnerDuel: The AI-Driven Inner Council Framework
 
-![InnerDuel Hero](https://raw.githubusercontent.com/greychan1971/InnerDuel/refs/heads/main/innerduel_01.jpg)
+![InnerDuel Hero](https://raw.githubusercontent.com/greychan1971/InnerDuel/refs/heads/main/assets/human-operating-system.jpg)
 
 ## 💡 Project Overview
 InnerDuel is a structured cognitive framework designed to visualize the "internal debate" within the human mind. By personifying complex psychological functions into a **6-member Inner Council**, we empower users to navigate difficult decisions with clarity, logic, and emotional balance.

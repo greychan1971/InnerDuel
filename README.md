@@ -29,8 +29,12 @@ L.D.S.T.B.
 * **Augustus (Tradition)**: The Keeper of Experience. Analyzes past patterns to inform present choices (Hippocampus).
 * **Serena (Bond)**: The Emotional Moderator. Ensures cognitive harmony and prevents burnout (Serotonin System).
 
-## 🎨 Visual Methodology
-This repository hosts original high-fidelity infographics and character assets for the InnerDuel ecosystem. These assets bridge the gap between neurobiological concepts and intuitive user interface design.
+## 🎨 Visualizing Your Brain's Blueprint
+This repository is more than just a folder of images; it’s the "Visual Genome" of the IDT system.
+
+To help you instantly grasp the 12 complex neural personality types, I’ve crafted a collection of high-fidelity infographics and character assets. These visuals act as a bridge between "hardcore neuroscience" and "intuitive design." Through these assets, I’m turning abstract mental conflicts into something you can actually see and feel, giving every IDT profile its own unique soul.
+
+![InnerDuel Hero](https://raw.githubusercontent.com/greychan1971/InnerDuel/refs/heads/main/assets/IDT-L-04.jpg)
 
 ## 🚀 Responsive Experience
 The project features a tailored UI:

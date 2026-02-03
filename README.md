@@ -37,6 +37,6 @@ To help you instantly grasp the 12 complex neural personality types, I’ve craf
 ![InnerDuel Hero](https://raw.githubusercontent.com/greychan1971/InnerDuel/refs/heads/main/assets/IDT-L-04.jpg)
 
 ## 🚀 Responsive Experience
-* **This project will present a wonderful, interesting and rich stream of life.
+* This project will present a wonderful, interesting and rich stream of life.
 
 © 2026 Grey Chan's Lab. 

@@ -34,7 +34,7 @@ S - Sasha (Safety): The Vigilant Guard. Detects hidden risks and ensures your su
 
 T - Thomas (Tradition): The Pattern Keeper. Anchors decisions in past wisdom and proven experiences. (Hippocampus)
 
-B - Bella (Balance): The Harmony Mediator. She balances the council to prevent burnout and ensures true, lasting happiness. (Serotonin System)
+B - Bella (Bond): The Harmony Mediator. She balances the council to prevent burnout and ensures true, lasting happiness. (Serotonin System)
 
 ## 🎨 Visualizing Your Brain's Blueprint
 This repository is more than just a folder of images; it’s the "Visual Genome" of the IDT system.

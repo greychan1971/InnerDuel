@@ -19,15 +19,14 @@ I’m here to help you move from "survival mode" to "flow state." It’s about u
 ![InnerDuel Hero](https://raw.githubusercontent.com/greychan1971/InnerDuel/refs/heads/main/assets/human-operating-system-logo.jpg)
 
 ## 🏛 The Inner Council Members
-Each persona represents a specific neural or psychological function:
-
+To help you navigate life with clarity and joy, the IDT system personifies your neural functions into five distinct personas.
+Each persona represents a specific neural or psychological function.
 L.D.S.T.B.
-
-* **Logic (Alpha)**: The Rational Planner. Focuses on data-driven strategy and long-term consequences (Prefrontal Cortex).
-* **Desire (Dominic)**: The Motivation Seeker. Driven by novelty and potential gains (Nucleus Accumbens).
-* **Safety (Lilith)**: The Impulse Warner. Detects risks and prioritizes immediate safety (Amygdala).
-* **Tradition (Augustus)**: The Keeper of Experience. Analyzes past patterns to inform present choices (Hippocampus).
-* **Bond (Serena)**: The Emotional Moderator. Ensures cognitive harmony and prevents burnout (Serotonin System).
+L - Leo (Logic): The Rational Planner. Focuses on data, strategy, and long-term consequences. (Prefrontal Cortex)
+D - Dominic (Desire): The Motivation Seeker. Driven by dopamine, novelty, and the thrill of the win. (Nucleus Accumbens)
+S - Sasha (Safety): The Vigilant Guard. Detects hidden risks and ensures your survival in the shadows. (Amygdala)
+T - Thomas (Tradition): The Pattern Keeper. Anchors decisions in past wisdom and proven experiences. (Hippocampus)
+B - Bella (Balance): The Harmony Mediator. She balances the council to prevent burnout and ensures true, lasting happiness. (Serotonin System)
 
 ## 🎨 Visualizing Your Brain's Blueprint
 This repository is more than just a folder of images; it’s the "Visual Genome" of the IDT system.

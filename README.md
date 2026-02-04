@@ -19,13 +19,21 @@ I’m here to help you move from "survival mode" to "flow state." It’s about u
 ![InnerDuel Hero](https://raw.githubusercontent.com/greychan1971/InnerDuel/refs/heads/main/assets/human-operating-system-logo.jpg)
 
 ## 🏛 The Inner Council Members
+
 To help you navigate life with clarity and joy, the IDT system personifies your neural functions into five distinct personas.
+
 Each persona represents a specific neural or psychological function.
+
 L.D.S.T.B.
+
 L - Leo (Logic): The Rational Planner. Focuses on data, strategy, and long-term consequences. (Prefrontal Cortex)
+
 D - Dominic (Desire): The Motivation Seeker. Driven by dopamine, novelty, and the thrill of the win. (Nucleus Accumbens)
+
 S - Sasha (Safety): The Vigilant Guard. Detects hidden risks and ensures your survival in the shadows. (Amygdala)
+
 T - Thomas (Tradition): The Pattern Keeper. Anchors decisions in past wisdom and proven experiences. (Hippocampus)
+
 B - Bella (Balance): The Harmony Mediator. She balances the council to prevent burnout and ensures true, lasting happiness. (Serotonin System)
 
 ## 🎨 Visualizing Your Brain's Blueprint

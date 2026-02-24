@@ -1,5 +1,4 @@
-# InnerDuel.ai : Cyberpunk your brain, win your inner duel.
-
+# InnerDuel.ai : Healing life and making better solutions.
 ## 💡 Project Overview : My "Mind Lab" Manifesto
 
 Hey, I'm Grey. Welcome to InnerDuel.ai.
